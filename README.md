@@ -2,7 +2,7 @@
 
 I'm a **self-taught developer** who's been building software and startups in ✨ web 3 ✨ since 2018
 
-🔭 Currently leading the developer guild <a href="https://talentlayer.org">TalentLayer</a> and <a href="https://recursive.so">Recursive Studio</a>, a web 3 x AI agency and open-source guild
+🔭 Currently leading the developer guild <a href="https://talentlayer.org">TalentLayer</a>. Also a Partner at <a href="https://recursive.so">Recursive Studio</a>, a web 3 x AI agency and open-source guild
 
 🌱 Raised over 400K in grants to fund open-source software initiatives
 
